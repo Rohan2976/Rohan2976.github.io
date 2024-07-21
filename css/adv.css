@@ -1,0 +1,9 @@
+.banner-area {
+    height: 60vh;
+    width: 100%;
+    background: linear-gradient( #1c1a2521, #000000ab),url(../ahmedabad/ahmedabad-metro-map.jpg) no-repeat;
+    /* background-color: #eee; */
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover; 
+}
